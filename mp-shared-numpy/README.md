@@ -16,3 +16,8 @@ python3 multi.py
 ```
 python3 multi.py --no-share
 ```
+
+
+References:
+
+https://stackoverflow.com/questions/17785275/share-large-read-only-numpy-array-between-multiprocessing-processes
